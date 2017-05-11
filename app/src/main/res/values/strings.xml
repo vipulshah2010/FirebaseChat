@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseChat</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
